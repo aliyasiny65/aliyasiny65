@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Turkey.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliyasiny65&label=Profile%20views&color=0e75b6&style=flat" alt="aliyasiny65" /> </p>
 
-- 🔭 I’m currently working on [Crypon Discord Bot](https://github.com/aliyasiny65/crypon-discord-bot)
+- 🔭 I’m currently working on [Crypon](https://crypon.xyz)
 
 - 🌱 I’m currently learning **Node.js**
 
