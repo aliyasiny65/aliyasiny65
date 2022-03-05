@@ -20,8 +20,6 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=um3a5tn4xd3env0c4m9gcc554&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliyasiny65&show_icons=true&theme=dark&locale=tr&layout=compact" alt="aliyasiny65" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliyasiny65&show_icons=true&theme=dark&locale=en&layout=compact" alt="aliyasiny65" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliyasiny65&show_icons=true&theme=dark&locale=tr" alt="aliyasiny65" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliyasiny65&theme=dark" alt="aliyasiny65" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliyasiny65&show_icons=true&theme=dark&locale=en" alt="aliyasiny65" /></p>
