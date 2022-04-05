@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working on [Crypon](https://crypon.xyz)
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **PHP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aliyasiny65/](https://github.com/aliyasiny65/)
 
-- 📫 How to reach me **aliyasiny65@crypon.xyz**
+- 📫 How to reach me **iletisim@aliyasin.org**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
