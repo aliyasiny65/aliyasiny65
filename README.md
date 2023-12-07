@@ -14,6 +14,7 @@
 <p align="center">
 <a href="https://discord.com/users/660103860097908736/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="754638750012670062" height="30" width="40" /></a>
 <a href="https://wa.me/+4407732174903" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="4407732174903" height="30" width="40" /></a>
+<a href="[https://wa.me/+4407732174903](https://steamcommunity.com/id/aliyasiny65/)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg" alt="aliyasiny65" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
