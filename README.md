@@ -12,8 +12,8 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://discord.com/users/959148027547877507/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="959148027547877507" height="30" width="40" /></a>
-<a href="https://wa.me/+4407732174903" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="4407732174903" height="30" width="40" /></a>
+<a href="https://discord.com/users/717043678140694529/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="959148027547877507" height="30" width="40" /></a>
+<a href="https://wa.me/+310629110061" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="4407732174903" height="30" width="40" /></a>
 <a href="https://steamcommunity.com/id/aliyasiny65" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg" alt="aliyasiny65" height="30" width="40" /></a>
 </p>
 
