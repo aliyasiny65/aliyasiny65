@@ -9,7 +9,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="[https://wa.me/+310629110061](https://www.linkedin.com/in/aliyasinyesilyaprak/)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin" alt="Linkedin" height="30" width="40" /></a>
+<a href="[https://wa.me/+310629110061](https://www.linkedin.com/in/aliyasinyesilyaprak/)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linkedin" height="30" width="40" /></a>
 <a href="https://wa.me/+310629110061" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="310629110061" height="30" width="40" /></a>
 <a href="https://steamcommunity.com/id/aliyasiny65" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg" alt="aliyasiny65" height="30" width="40" /></a>
 </p>
